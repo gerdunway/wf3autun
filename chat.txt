@@ -1,19 +1,15 @@
 
-<<<<<<< HEAD at 06 Dec. 17 - 12h18
 Making anaother change locally while a change on the server side was made as well
 
 I'll make a change without knowing that Stephan had made a change as well on his side and update the server file
 
 Will see the changes made locally with this line
 
-=======
+
 /* Modification made by me locally, which conflicted */
 
 A new line to learn something else
 
 /* Modification made by Stephan */
 
-
-
 tsusss!!!!!!
->>>>>>> origin/master
